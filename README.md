@@ -1,6 +1,6 @@
 # painting-a-wall
 
-## About:
+### About:
 
 ##### This is a challenge where I had to output each floating-point value with two digits after the decimal point, this was achieved by executing:
 
@@ -31,7 +31,7 @@ Wall area: 180.00 square feet
 Paint needed: 0.51 gallons
 ```
 
-(3) Lastly I had to calculate and output the number of 1 gallon cans needed to paint the wall. A big Hint that I found was to use a math function to round up to the nearest gallon.
+- (3) Lastly I had to calculate and output the number of 1 gallon cans needed to paint the wall. A big Hint that I found was to use a math function to round up to the nearest gallon.
 
 ```
 Enter wall height (feet):
